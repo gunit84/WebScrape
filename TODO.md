@@ -7,3 +7,10 @@
 
 * PyCharm > Settings > Version Control > Settings > GitHub (Test the Connection)
 
+- Commit the Project for Upload
+
+* PyCharm > VCS > Select the Dirctories and Commit.
+
+* Create the Dir in GITHUB (repository)
+
+Ctrl + Shift + K
